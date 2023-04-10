@@ -1,2 +1,2 @@
-# CCNA
-This repository outlines my approach to learning about the Cisco Certified Network Associate certification to grasp a basic rudimentary idea of computer networking
+# Networking and Web Security
+This repository outlines my exploration journey of going through the realms of networking and web exploitation to participate in Capture the Flag Events.
